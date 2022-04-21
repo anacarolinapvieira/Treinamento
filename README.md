@@ -7,7 +7,7 @@
 2. item2
 
 ~~~
-Trecho de código
+Link para download
 ~~~
 
 [Site Petlove]("www.petlove.com.br")
